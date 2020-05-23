@@ -30,5 +30,7 @@ This is an interpreter for a programming langauge that is very similar to Python
   The interpreter consists of three parts: 
   
 1- A tokenizer, which takes a string as input and produces a list of tokens
+
 2- A parser, which takes the output of the tokenizer as input and produces a structured representation of the program as its output.
+
 3- An evaluator, which takes the output of the parser as input and handles running the program.
